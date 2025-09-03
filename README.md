@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Sabry  
 💻 Backend Developer | Node.js Enthusiast | APIs & Databases Lover  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamed-sabry-av&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false&count=7023)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-sabry-av&color=blue)
 
 ---
 
