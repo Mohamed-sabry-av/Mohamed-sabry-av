@@ -1,54 +1,62 @@
-# Hi there! I'm Mohamed Sabry 👋
+# 👋 Hi, I'm Mohamed Sabry  
+💻 Backend Developer | Node.js Enthusiast | APIs & Databases Lover  
 
-## 🚀 About Me
-Junior Full-Stack Developer passionate about creating dynamic web applications. I specialize in **Angular** and **MEAN Stack** development with 1+ year of experience building responsive, user-friendly interfaces and robust backend solutions.
-
-- 🔭 Currently working on **Adventures Hub** - Headless WooCommerce E-Commerce Platform
-- 🌱 Learning advanced **Angular SSR** and **API integrations**
-- 💼 Available for **freelance projects** and collaborations
-- 📫 Reach me: **mohamed.sabry.av@gmail.com**
-- 📍 Based in **New Cairo, Egypt**
-
-## 🛠️ Tech Stack
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-sabry-av&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-sabry-av&layout=compact&theme=radical)
-
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🌟 Featured Projects
-- 🛒 **Adventures Hub** - Headless WooCommerce E-Commerce Platform with Angular SSR
-- 📊 **Goto Connect API Integration** - Node.js application with Google Sheets automation
-- 👗 **Loom&Luxe** - Luxury fashion e-commerce platform (MEAN Stack)
-
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
-## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.sabry.av@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_URL)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue)
 
 ---
-⭐️ From [Mohamed Sabry](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 💡 About Me  
+- 🛠️ **Focused on Backend Development** (Node.js, Express.js, APIs, Databases)  
+- 👨‍💻 Experience with **frontend (Angular, React)** to deliver end-to-end solutions  
+- 📊 Skilled at **API design, integration & optimization**  
+- 🗄️ Strong in **databases (MongoDB, MySQL, PostgreSQL)**  
+- 🌱 Continuously learning **system design, scalability & cloud deployment**  
+
+---
+
+## ⚡ Tech Stack  
+
+<p align="center">
+ <!-- Backend -->
+ <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
+ <img src="https://img.shields.io/badge/REST%20API-02569B?logo=postman&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+ <br/>
+ <!-- Frontend (Secondary) -->
+ <img src="https://img.shields.io/badge/Angular-dd0031?logo=angular&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+ <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+- 🔗 **[API Integration – Goto Connect ↔ Google Sheets](#)**  
+  Node.js app integrating APIs for automation & real-time data syncing.  
+
+- 🛒 **[Adventures Hub](#)**  
+  Headless WooCommerce e-commerce with Angular SSR + custom Node.js API.  
+
+- 👗 **[Loom&Luxe](#)**  
+  Full-stack fashion e-commerce with **secure backend** using Node.js + MongoDB.  
+
+---
+
+## 🎯 Currently Working On  
+- Enhancing **backend scalability & API performance**  
+- Applying **best practices in web security & deployment**  
+- Expanding my **freelance portfolio** with real-world projects  
+
+---
+
+## 📫 Contact Me  
+<p align="center">
+  <a href="mailto:mohamed.sabry.av@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-sabry200"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Mohamed-sabry-av"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+</p>
