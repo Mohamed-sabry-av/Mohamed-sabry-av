@@ -1,17 +1,54 @@
-# 💫 About Me:
-💻 A Full Stack Developer specializing in React and Node.js.<br>🌱 Skilled in HTML, CSS, JavaScript, and always expanding my skills.<br>✨ Passionate about creating efficient, scalable web applications.<br>🤓 Fun Fact: I love debugging so much that finding a bug feels like winning a treasure hunt!<br>🚀 Ready to tackle challenges and build impactful projects!
+# Hi there! I'm Mohamed Sabry 👋
 
+## 🚀 About Me
+Junior Full-Stack Developer passionate about creating dynamic web applications. I specialize in **Angular** and **MEAN Stack** development with 1+ year of experience building responsive, user-friendly interfaces and robust backend solutions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed.sabry.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-sabry200) 
+- 🔭 Currently working on **Adventures Hub** - Headless WooCommerce E-Commerce Platform
+- 🌱 Learning advanced **Angular SSR** and **API integrations**
+- 💼 Available for **freelance projects** and collaborations
+- 📫 Reach me: **mohamed.sabry.av@gmail.com**
+- 📍 Based in **New Cairo, Egypt**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+## 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+## 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🌟 Featured Projects
+- 🛒 **Adventures Hub** - Headless WooCommerce E-Commerce Platform with Angular SSR
+- 📊 **Goto Connect API Integration** - Node.js application with Google Sheets automation
+- 👗 **Loom&Luxe** - Luxury fashion e-commerce platform (MEAN Stack)
+
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.sabry.av@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohamed-sabry-av&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐️ From [Mohamed Sabry](https://github.com/YOUR_GITHUB_USERNAME)
